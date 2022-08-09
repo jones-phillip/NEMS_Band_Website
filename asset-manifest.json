@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/NEMS_Band_Website/static/css/main.073c9b0a.css",
-    "main.js": "/NEMS_Band_Website/static/js/main.146e6801.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/NEMS_Band_Website/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/logo.svg": "/NEMS_Band_Website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/NEMS_Band_Website/index.html",
-    "main.073c9b0a.css.map": "/NEMS_Band_Website/static/css/main.073c9b0a.css.map",
-    "main.146e6801.js.map": "/NEMS_Band_Website/static/js/main.146e6801.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/NEMS_Band_Website/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.e4b4c06e.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.e4b4c06e.js.map": "/static/js/main.e4b4c06e.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.146e6801.js"
+    "static/js/main.e4b4c06e.js"
   ]
 }
